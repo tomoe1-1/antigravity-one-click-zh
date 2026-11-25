@@ -1,0 +1,9 @@
+# Release 二进制通过 GitHub Releases 分发，不入库
+*.zip
+*.exe
+
+# 本地临时/令牌文件
+tok.txt
+*.log
+_thumbs.db
+.DS_Store
