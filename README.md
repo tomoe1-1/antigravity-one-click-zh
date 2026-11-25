@@ -10,13 +10,13 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `Antigravity一键汉化.exe` | 单文件安装包，双击即用 |
-| `Antigravity一键汉化.zip` | 同上，便于转发分发 |
+| `Antigravity-OneClick-ZH.exe` | 单文件安装包，双击即用 |
+| `Antigravity-OneClick-ZH.zip` | 同上，便于转发分发 |
 
 ## 使用方法
 
 1. 先安装 Google Antigravity。
-2. 双击 `Antigravity一键汉化.exe`。
+2. 双击 `Antigravity-OneClick-ZH.exe`。
 3. 程序自动完成：检测安装 → 安装汉化组件 → SHA-256 校验 → 创建桌面「Antigravity 中文」快捷方式 → 启动汉化。
 
 以后从桌面「**Antigravity 中文**」快捷方式启动即为中文界面。窗口右下角有一个半透明圆钮：
@@ -42,7 +42,7 @@
 | 文件 | SHA-256 |
 | --- | --- |
 | 汉化组件 `antigravity-hans.exe` | `91e2987479334a3c001f7c0ab01d830f53b4a2389c7daf8faca56f5503e18bc1` |
-| 安装包 `Antigravity一键汉化.exe` | `23748d2a6345cd0a5b679f1f72399b2c89ce0d0b401386b328ad000fff960d6c` |
+| 安装包 `Antigravity-OneClick-ZH.exe` | `23748d2a6345cd0a5b679f1f72399b2c89ce0d0b401386b328ad000fff960d6c` |
 
 > 部分杀毒软件可能对未签名程序误报，核对哈希一致后可放心放行。
 
